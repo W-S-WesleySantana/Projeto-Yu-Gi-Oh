@@ -14,5 +14,5 @@
 
 
 
-<img src="https://github.com/W-S-WesleySantana/Projeto-Yu-Gi-Oh/blob/master/src/Imagem%20Redme/Captura%20de%20tela%202026-06-06%20212817.jpg?raw=true" width="100" heigth="100" > 
+<img src="https://github.com/W-S-WesleySantana/Projeto-Yu-Gi-Oh/blob/master/src/Imagem%20Redme/Captura%20de%20tela%202026-06-06%20212817.jpg?raw=true" width="500" heigth="500" > 
 
